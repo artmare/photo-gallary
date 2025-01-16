@@ -1,3 +1,20 @@
+.container{
+    width: 935px;
+    margin: 0 auto;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+
+.header{
+    padding-top: 72px;
+    padding-bottom: 92px;
+}
+
+.footer{
+    padding-bottom: 66px;
+    padding: 0 506px;
+}
+
 .nav_links {
     color: rgb(3, 169, 244);
     font-family: Playfair Display;
